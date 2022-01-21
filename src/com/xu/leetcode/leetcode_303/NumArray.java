@@ -1,7 +1,7 @@
 package com.xu.leetcode.leetcode_303;
 
 /**
- * Description 
+ * Description
  * Date 2022/1/21 9:35
  * Version 1.0.1
  *
