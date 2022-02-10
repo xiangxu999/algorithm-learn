@@ -1,4 +1,4 @@
-package com.xu.lan.ten_A;
+package com.xu.lan_yan.ten_A;
 
 import java.util.ArrayList;
 import java.util.Arrays;

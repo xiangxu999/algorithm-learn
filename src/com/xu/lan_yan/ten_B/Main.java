@@ -1,4 +1,4 @@
-package com.xu.lan.ten_B;
+package com.xu.lan_yan.ten_B;
 
 public class Main {
 	
